@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhoneServer</string>
+    <string name="notification">start</string>
+    <string name="start">服务已开启</string>
+</resources>
